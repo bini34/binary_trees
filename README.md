@@ -1,4 +1,4 @@
-# Project README.md: Binary Tree Adventure
+# Binary Tree Adventure
 
 Welcome to the Binary Tree Adventure! 🌳🚀
 
@@ -49,9 +49,10 @@ To join this epic quest, you must equip yourself with:
 To join the Binary Tree Adventure, follow these steps:
 
 1. Clone the repository from GitHub using the provided link.
-2. Arm yourself with your chosen editor and compiler.
-3. Compile the source files with the provided compiler flags.
-4. Embark on your adventure by exploring the provided tasks and conquering each challenge.
+   ''' git clone'''
+3. Arm yourself with your chosen editor and compiler.
+4. Compile the source files with the provided compiler flags.
+5. Embark on your adventure by exploring the provided tasks and conquering each challenge.
 
 ### Quest Structure
 
