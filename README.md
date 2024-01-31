@@ -65,9 +65,6 @@ Your quest repository should contain the following artifacts:
 
 🖥️ **Example Main Files:** Use these files to test your functions and validate your progress.
 
-### Meet Your Fellow Adventurers
-
-Join forces with fellow adventurers **Alexandre Gautier** and **Biniyam Beyene** as you embark on this epic quest. Together, you'll conquer challenges, share knowledge, and emerge victorious in your binary tree adventure.
 
 ### Additional Resources
 
@@ -79,15 +76,7 @@ Prepare for your journey by delving into the following resources:
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [Data structures: Binary Tree](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
-### Copyright and Plagiarism
 
-As noble adventurers, honor the code of integrity:
-
-🔐 **Copyright:** Create your solutions independently to unlock the full potential of your adventure.
-
-🚫 **Plagiarism:** Avoid the dark path of copying solutions—plagiarism will lead to expulsion from the quest.
-
-For further guidance or assistance, consult the project documentation or seek counsel from your fellow adventurers.
 
 ### Are You Ready to Begin Your Adventure?
 
